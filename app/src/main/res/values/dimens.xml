@@ -1,0 +1,40 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="buttonCornerSize">2.0dip</dimen>
+    <dimen name="dialog_round_radius">4.0dip</dimen>
+    <dimen name="smallButtonHeight">32.0dip</dimen>
+    <dimen name="smallButtonWidth">48.0dip</dimen>
+    <dimen name="normalButtonHeight">48.0dip</dimen>
+    <dimen name="normalButtonWidth">80.0dip</dimen>
+
+    <dimen name="basicPaddingSize">4.0dip</dimen>
+    <dimen name="inputEditTextMinHeight">32.0dip</dimen>
+    <dimen name="searchViewMinHeight">45dip</dimen>
+    <dimen name="smallPadding">8.0dip</dimen>
+    <dimen name="largePadding">16.0dip</dimen>
+    <dimen name="largerPadding">24.0dip</dimen>
+    <dimen name="largestPadding">32.0dip</dimen>
+    <dimen name="smallerPadding">3.0dip</dimen>
+    <dimen name="littlePadding">6.0dip</dimen>
+    <dimen name="middlePadding">10.0dip</dimen>
+    <dimen name="normalPadding">12.0dip</dimen>
+    <dimen name="footerPadding">11.0dip</dimen>
+    <dimen name="noPadding">0.0dip</dimen>
+
+    <dimen name="bigButtonTextSize">18.0dip</dimen>
+    <dimen name="normalButtonTextSize">16.0dip</dimen>
+    <dimen name="smallButtonTextSize">14.0dip</dimen>
+
+
+
+    <dimen name="ware_grid_img_width">180dp</dimen>
+    <dimen name="ware_grid_img_height">180dp</dimen>
+    <dimen name="ware_img_height">150dp</dimen>
+    <dimen name="ware_img_width">150dp</dimen>
+    <dimen name="category_layout_width">120dp</dimen>
+
+
+</resources>

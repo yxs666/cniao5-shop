@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/libs/ShareSDK-QZone-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="606a553246f241278b45e19d5029c915ae49c316">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/ShareSDK-QZone-2.6.4-d1d52f416b8349f3cd93bfc509113cac6e7c98c1.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-535743ca1f68f2a57d69655b2a7cb97a530eb154.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-ebf1b696f725c5b05614566b031301f6bfae68a9.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-5c24d0e36d10e91ae7f97f5c20390a92fde2f5c3.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/okio-1.6.0-60b2d6de0bc99b3984e000f1a80891fdeab3180a.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-1a2c4c018bef011021e4cedfc998a7d38022e830.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-c989dcbf66c8f6acbbc86e113a0e0321b01ad17c.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="27ebd5d2c69a1830b4ff47a1d5d4c6a4aab5e233">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-eee0eebe6eab45f76e02897440aad402fcca3d09.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/libs/ShareSDK-TencentWeibo-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="83cf7f24b0717fbe9272342f0b971ed4af13d106">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/ShareSDK-TencentWeibo-2.6.4-61a9d4495a4623d378cf1f63c8d6d245b0b5efdc.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-0276b45fdfaca1e8671eb0e40697c9ccaabefeca.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/libs/ShareSDK-Wechat-Core-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6e8417962070d895b3567c68f104f628462bc35">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Core-2.6.4-acf0e20db9d507b20d951bfcce278809db5006d0.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/library-2.4.0-13ec56d7cce00cb047856bb4cb4ec146b7749d9f.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="543b4bf48e20cc32db51dbd9138ac181586ebe85">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-35c4d5f501d9ad1d0fac2658f1173e399178ca1f.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e1b678b40346e22038264228e0cd5a2bb0b9c9a">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-c399e8b9c880d993c3290103adba0e5af615f61e.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/libs/ShareSDK-Wechat-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="100546a136041bcbeb9b90790b6361c932545676">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-2.6.4-c664b3c1224ff3f28d7fc92b9e98f637c6b80403.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b5eb6c5f132d34f7ece3fbae25feb43e4ea9d6aa">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-9ea00af719138124dbb8283b58c2b085cd4dd881.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/libs/ShareSDK-Core-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7bb32fc69b3520f10333fcc5cdd78a4495761a64">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/ShareSDK-Core-2.6.4-78182bcaeee77031a282b614b37abb282e8d92bc.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.github.d-max/spots-dialog/0.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f82b3f786bf4937ed1a1cc9a9a811e154813ba9a">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-def023859074a9cac216e429a8ad37f8a79b1c30.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/soft/dev/android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-1edba4f9ac9be1c91fbcbac98969a57ed09356a7.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/libs/MobCommons.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86052ea3c2fcfa2f2d25d71ae34ab20b8c2dca9a">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/MobCommons-7a2f33cf26979bcb211febabde01dff683d85600.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.cjj.materialrefeshlayout/library/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-73e19f491527c9e6f345a2eaa06f79b2ac1e30fb.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-7ec25abdd2d9934191149348da4bab091c2bdee8.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/libs/ShareSDK-Wechat-Favorite-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd820f646c7b0315feb16ec95ae4686fa50ac74f">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Favorite-2.6.4-955819bb4f237c9de60c3de94cc5f4e69db69bad.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="87bffaacf21eb2c6fc61cf01930ff96ae175e798">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-3103830f6bed91cda039172c95b78ce6c56aaab1.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-d85d323d87a1669e17b3a86e7138b05b0e69395e.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/libs/ShareSDK-Wechat-Moments-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dc2b46a70ccf00592d33c3afde812993d9db4ac9">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Moments-2.6.4-f47be6efd001a3bac97191d13a021d45c8c00c94.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/libs/ShareSDK-QQ-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e8d59be1960d4e1b1f9119cc77966e5f7c9fb7bd">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/ShareSDK-QQ-2.6.4-25f0b8a9251698abc9a4a691fa215d7cd0d8ec2c.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/gson-2.3.1-e17007216f320be97811a3a5e795e78a76b1a885.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d572f92ecb6ae3b66e807550b07e4a6cca1f737f">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-fe937d33164442390d387a35f7e5960d2b3c4e81.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-393440d9858056775a4dd8b945afd71bf6de951e.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-5ec6bf9f729118d69fd17b023ad833435a98d52a.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.jiechic.library/xUtils/2.6.14/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/classes-03ebebc860fd4ea0dd0705e478a163cb7a2a825f.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-48db17522835681e24830b6aa85e93e79a9c3f66.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/libs/MobTools.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4aae467e0a293d5d5cd0643e51b7b854bcc397c8">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/MobTools-cbb8abcd5037b0e38a600d837486a84240ff2f17.jar" />
+    </item>
+    <item
+        jar="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/exploded-aar/CNiao5Shop/sharesdk/unspecified/jars/libs/ShareSDK-SinaWeibo-2.6.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4536d9f7a5fb826609d5a17b30cabb21ead18d1c">
+        <dex dex="/Users/Ivan/AndroidstudioProjects/CNiao5Shop/app/build/intermediates/pre-dexed/debug/ShareSDK-SinaWeibo-2.6.4-08e17fb98f917cda5f0d35c7ef30f2f23d713c6f.jar" />
+    </item>
+
+</items>

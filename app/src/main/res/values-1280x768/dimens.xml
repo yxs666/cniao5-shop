@@ -1,0 +1,10 @@
+<resources>
+
+
+    <dimen name="ware_grid_img_width">150dp</dimen>
+    <dimen name="ware_grid_img_height">150dp</dimen>
+
+    <dimen name="category_layout_width">200dp</dimen>
+
+
+</resources>

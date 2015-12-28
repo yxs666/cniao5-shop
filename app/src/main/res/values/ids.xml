@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="textview" type="id"/>
+    <item name="imgview" type="id"/>
+    <item name="webView" type="id"/>
+    <item name="button" type="id"/>
+    <item name="gridview" type="id"/>
+    <item name="toolbar" type="id"/>
+
+
+</resources>

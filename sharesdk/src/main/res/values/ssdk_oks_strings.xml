@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ssdk_oks_cancel">取消</string>
+    <string name="ssdk_oks_finish">完成</string>
+    <string name="ssdk_oks_sharing">分享操作正在后台进行…</string>
+    <string name="ssdk_oks_share_to">分享到</string>
+	<string name="ssdk_oks_share">分享</string>
+	<string name="ssdk_oks_multi_share">图文分享</string>
+	<string name="ssdk_oks_share_completed">分享成功</string>
+	<string name="ssdk_oks_share_canceled">分享已取消</string>
+	<string name="ssdk_oks_select_one_plat_at_least">请选择一个目标平台</string>
+	<string name="ssdk_oks_list_friends">%s的朋友</string>
+	<string name="ssdk_oks_share_failed">分享失败</string>
+	<string name="ssdk_oks_pull_to_refresh">下拉刷新</string>
+	<string name="ssdk_oks_release_to_refresh">松开刷新</string>
+	<string name="ssdk_oks_refreshing">刷新中…</string>
+	<string name="ssdk_oks_shake2share">摇晃手机！</string>
+	<string name="ssdk_oks_select_a_friend">请选择一个朋友</string>
+</resources>

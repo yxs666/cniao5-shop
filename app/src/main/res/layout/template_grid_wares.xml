@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="2dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginTop="2dp"
+    app:cardBackgroundColor="#fff"
+    app:contentPadding="10dp"
+    app:cardCornerRadius="4dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector_list_item"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:layout_width="@dimen/ware_grid_img_width"
+            android:layout_height="@dimen/ware_grid_img_height"
+            android:id="@+id/drawee_view"
+
+            android:layout_alignParentLeft="true"
+            android:layout_gravity="center"
+            >
+
+        </com.facebook.drawee.view.SimpleDraweeView>
+
+        <TextView
+            android:id="@+id/text_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            style="@style/ware_title"
+            android:text="海蕴诗 H-W001 蜗牛再生精华蚕丝面膜 （莹润嫩肤 深层补水）5片装/盒 30g*5"
+            />
+
+        <View
+            style="@style/line_vertical"
+            android:layout_marginTop="10dp"
+            />
+
+        <TextView
+            android:id="@+id/text_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_gravity="right"
+            android:layout_marginTop="20dp"
+            style="@style/ware_price"
+            android:text="559.00"
+            />
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

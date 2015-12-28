@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item>-->
+        <!--<shape android:shape="rectangle">-->
+
+            <!--<size android:height="40dp" android:width="40dp"/>-->
+            <!--<corners android:radius="20dp"/>-->
+            <!--<solid android:color="@color/white" />-->
+            <!--<stroke android:width="1.0dp" android:color="#ddd" />-->
+        <!--</shape>-->
+    <!--</item>-->
+
+    <!--<item android:state_checked="true">-->
+
+        <!--<shape android:shape="rectangle">-->
+
+            <!--<size android:height="40dp" android:width="40dp"/>-->
+            <!--<corners android:radius="20dp"/>-->
+            <!--<solid android:color="?attr/colorPrimary" />-->
+            <!--<stroke android:width="1.0dp" android:color="#ddd" />-->
+        <!--</shape>-->
+
+    <!--</item>-->
+
+    <!--<item android:state_checked="false">-->
+        <!--<shape android:shape="rectangle">-->
+
+            <!--<size android:height="40dp" android:width="40dp"/>-->
+            <!--<corners android:radius="20dp"/>-->
+            <!--<solid android:color="@color/white" />-->
+            <!--<stroke android:width="1.0dp" android:color="#ddd" />-->
+        <!--</shape>-->
+    <!--</item>-->
+
+    <item android:drawable="@drawable/icon_check_checked_32" android:state_checked="true"/>
+    <item android:drawable="@drawable/icon_check_32" android:state_checked="false"/>
+    <item android:drawable="@drawable/icon_check_32"/>
+</selector>

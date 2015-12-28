@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="48dp"
+    android:background="#00A4DF">
+    <ImageView
+        android:id="@+id/backImageView"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:scaleType="center"
+        android:src="@drawable/ssdk_oks_skyblue_actionbar_back_btn"
+        android:layout_marginLeft="5dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ssdk_oks_share"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_centerInParent="true"
+        />
+    <ImageView
+        android:id="@+id/okImageView"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:scaleType="center"
+        android:src="@drawable/ssdk_oks_skyblue_actionbar_ok_btn"
+        android:layout_marginRight="5dp"
+        android:layout_alignParentRight="true"
+        />
+</RelativeLayout>
