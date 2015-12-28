@@ -8,7 +8,7 @@
 
 **下载：**<br/>
 课程地址：[《菜鸟商城》](http://www.cniao5.com/clazz/view/10073.html)<br/>
-视频下载地址:
+视频下载地址:http://pan.baidu.com/s/1dExm8lr  密码：c93f
 
 **【运行效果】**<br/>
 
